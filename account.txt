@@ -1,0 +1,12 @@
+b111
+password
+g0011
+pizza
+b0102 
+book
+b1112
+password2
+g00112
+pizza2
+b01022 
+book2
